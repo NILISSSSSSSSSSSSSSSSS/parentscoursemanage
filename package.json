@@ -1,0 +1,45 @@
+{
+  "name": "parentscoursemanage",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve --open",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "ali-oss": "^6.1.1",
+    "axios": "^0.18.0",
+    "core-js": "^2.6.5",
+    "cos-js-sdk-v5": "^0.5.22",
+    "echarts": "^4.2.1",
+    "element-ui": "^2.10.0",
+    "file-saver": "^2.0.2",
+    "jquery": "^3.4.1",
+    "js-md5": "^0.7.3",
+    "less": "^3.9.0",
+    "less-loader": "^5.0.0",
+    "lodash": "^4.17.11",
+    "mathjs": "^6.2.3",
+    "moment": "^2.24.0",
+    "qrcode.vue": "^1.6.3",
+    "spark-md5": "^3.0.0",
+    "tim-js-sdk": "^2.3.2",
+    "vue": "^2.6.10",
+    "vue-router": "^3.0.3",
+    "vue2-editor": "^2.10.2",
+    "vuex": "^3.0.1",
+    "vuex-persistedstate": "^2.7.0",
+    "xlsx": "^0.15.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.8.0",
+    "@vue/cli-plugin-eslint": "^3.8.0",
+    "@vue/cli-service": "^3.8.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.16.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "script-loader": "^0.7.2",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
